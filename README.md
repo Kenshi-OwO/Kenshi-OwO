@@ -1,7 +1,9 @@
-
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=add8e6&height=200&section=header&text=Kenshi%20GitHub&fontSize=90)
 <div align="center">
+
+  <br/ > 
 📏 Tech Stacks
+  
 <br/ > 
   <br/ > 
 📍 Used as the main
